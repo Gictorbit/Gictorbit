@@ -10,7 +10,7 @@
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
 ![shell](https://img.shields.io/badge/-Shell_Script-141a20?style=flat&logo=shell)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-141a20?style=flat&logo=flask)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sql-141a20?style=flat&logo=sqlite)\
+![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)\
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Hugo](https://img.shields.io/badge/-Hugo-141a20?style=flat&logo=hugo)&nbsp;
