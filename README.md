@@ -10,8 +10,5 @@
 ![profile views](https://komarev.com/ghpvc/?username=Gictorbit&color=269077)
 
 ### 📫 &nbsp;Connect with Me
-
-<p align="center">
-<a href="mailto:gictorbit@gmail.com"><img src="https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/gictor"><img src="https://img.shields.io/badge/-@gictor-0e3e55?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
+[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
+[![telegram](https://img.shields.io/badge/-@gictor-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/gictor)
