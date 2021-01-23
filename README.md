@@ -4,6 +4,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/Gictorbit/github-readme-stats)
 
+![profile views](https://komarev.com/ghpvc/?username=Gictorbit&color=269077)
+
 <!--
 **Gictorbit/Gictorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
