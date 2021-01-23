@@ -24,7 +24,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/Gictorbit/github-readme-stats)&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/Gictorbit/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
