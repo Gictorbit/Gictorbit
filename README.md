@@ -1,4 +1,4 @@
-### Hi there 👋 Victor
+### Hi there 👋 I'm Victor
 - 🌱 I’m currently learning Golang,C,Cpp
 - 📫 How to reach me: gictorbit@gmail.com
 
