@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Victor
 - 🌱 I’m currently learning Golang,C,Cpp
-- 📫 How to reach me: gictorbit@gmail.com
+- 📫 How to reach me: gictorbit@gmail.com , https://t.me/gictor
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/Gictorbit/github-readme-stats)
 
