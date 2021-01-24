@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Victor
+## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 computer engineering
 - 🌱 I’m currently learning Golang,C,Cpp
@@ -31,4 +31,3 @@
 [![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
 [![telegram](https://img.shields.io/badge/-@gictor-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/gictor)
 
-![profile views](https://komarev.com/ghpvc/?username=Gictorbit&color=269077)
