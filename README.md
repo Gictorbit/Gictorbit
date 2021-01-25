@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
 ### 👨🏻‍ &nbsp;About Me
-- 💻 computer engineering
+- 💻 I'm currently studying computer engineering
 - 🌱 I’m currently learning Golang,C,Cpp
 
 ### 🛠 &nbsp;Tech Stack
