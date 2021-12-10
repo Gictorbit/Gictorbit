@@ -8,8 +8,10 @@
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
-![shell](https://img.shields.io/badge/-Shell_Script-141a20?style=flat&logo=shell)&nbsp;
+![Go](https://img.shields.io/badge/-gRPC-141a20?style=flat&logo=google)&nbsp;
+![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=linux)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-141a20?style=flat&logo=flask)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql&logoColor=blue)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)\
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
