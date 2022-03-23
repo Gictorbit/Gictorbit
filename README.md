@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm currently studying software engineering
-- 🌱 I’m currently learning C,Cpp,Js
+- 💻 I'm currently working as backend developer
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
