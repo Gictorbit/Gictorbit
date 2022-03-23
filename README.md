@@ -28,7 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true&border_color=2e3440)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=300)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
