@@ -18,12 +18,10 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-141a20?style=flat&logo=netlify)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)\
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true&border_color=2e3440)
