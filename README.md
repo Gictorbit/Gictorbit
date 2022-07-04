@@ -5,7 +5,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-java-141a20?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
 ![gRPC](https://img.shields.io/badge/-gRPC-141a20?style=flat&logo=google)&nbsp;
@@ -15,6 +15,7 @@
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)
 ![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-141a20?style=flat&logo=ansible)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
