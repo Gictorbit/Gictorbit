@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat-square&logo=bootstrap&logoColor=563D7C)&nbsp;\
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat-square&logo=vim)&nbsp;
-![Goland](https://img.shields.io/badge/-Goland-141a20?style=flat-square&logo=goland&logoHeight=40)&nbsp;
+![Goland](https://img.shields.io/badge/-Goland-141a20?style=flat-square&logo=goland)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-141a20?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -29,6 +29,6 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
-[![telegram](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/VlC7OR)
+[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
+[![telegram](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/VlC7OR)
 
