@@ -12,6 +12,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-141a20?style=flat-square&logo=flask)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat-square&logo=OpenJDK&logoColor=FFA518)&nbsp;\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat-square&logo=postgresql&logoColor=blue)&nbsp;
+![Clickhouse](https://img.shields.io/badge/-ClickHouse-141a20?style=flat-square&logo=clickhouse&logoColor=yellow)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat-square&logo=sqlite&logoColor=blue)
 ![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat-square&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat-square&logo=docker)&nbsp;
