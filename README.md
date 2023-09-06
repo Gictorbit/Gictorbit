@@ -32,4 +32,4 @@
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
 [![linkedin](https://img.shields.io/badge/-linkedin.com/in/ghorbali-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghorbali/)
-[![telegram](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/VlC7OR)
+[![telegram](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vixtorex)
